@@ -1,5 +1,10 @@
 THis is the text file.
+<<<<<<< Updated upstream
 I am Download side develop
 this is final 
 Need more timr to final
 
+=======
+I am Download side developer
+Need more timr to final
+>>>>>>> Stashed changes
